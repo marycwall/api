@@ -1,0 +1,3 @@
+---
+---
+{{site.data.students | jsonify}}
